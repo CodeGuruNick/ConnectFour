@@ -1,2 +1,2 @@
 # ConnectFour
-The classic Connect Four game with various AI to play against.  Written in python with the tkinter built-in library.
+Begginer Project:  Connect Four boardgame with AI opponent
